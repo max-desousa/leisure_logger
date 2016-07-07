@@ -1,0 +1,23 @@
+Hey everyone,
+
+So, to understand the purpose of this project it's necessary to understand that I love taking leisurly drives
+and getting lost. There isn't much like finding something cool looking that you make a mental note of because 
+you can't (don't want to) nessecarily stop and investigate. But, by the time you get to your destination, it's 
+super easy to have forgotten where it was. But this place peaked your interests, and now your best chance in 
+finding the location is to cross your fingers and go at it again. Now, ordinarily this wouldn't be a problem.
+However, if you don't re-find your destination on the subsequent attempts, you have boxed yourself into 
+becoming familiar with this particular region. Now, your sacrificing opportunities to see and learn more about
+your surroundings by getting lost just as you loved in the beginning. This project serves as a means for me to avoid
+being lazy with the television, and share my work for any who may be interested in any part.
+
+
+Minimum requirements of the project:
+- one big button that tiggers a gps ping and stores the co-ordinates to a .txt file
+* it's a simple project
+
+
+Stretch Goals:
+- attach led to provide "warmer/colder" indication for co-ordinates.
+- Use led as a backup GPS for getting home if you really get lost
+- provide initial .txt file with notable locations around the country(s) as a "show me something new" feature
+ 
